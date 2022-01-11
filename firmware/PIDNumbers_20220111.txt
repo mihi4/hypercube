@@ -1,0 +1,11 @@
+Bed:
+ Kp: 183.92
+ Ki: 14.77
+ Kd: 572.53
+PID Autotune finished! Put the last Kp, Ki and Kd constants from above into Configuration.h
+
+Hotend:
+Kp: 28.25
+ Ki: 3.01
+ Kd: 66.19
+PID Autotune finished! Put the last Kp, Ki and Kd constants from above into Configuration.h
